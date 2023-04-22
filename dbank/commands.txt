@@ -1,0 +1,5 @@
+dfx start
+dfx deploy
+dfx canister call dbank_backend topUP
+dfx canister id __Candid_UI
+dfx canister id dbank_backend
